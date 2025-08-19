@@ -16,7 +16,7 @@ DATA_DIR = Path("data")  # Directory to save the JSON files
 LOOP_SECONDS = 60  # Run the update cycle every 60 seconds
 JSON_COMPACT = True  # True = save compact JSON; False = save human-readable JSON
 # ------------------------------------
-#nef comment
+#nef commen
 # --- Graceful shutdown handling ---
 stop_event = False
 
